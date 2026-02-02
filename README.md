@@ -52,21 +52,7 @@
 - Работа с REST API
 - Поддержка и развитие существующих проектов
 
----
 
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-> ⚠️ Не забудь заменить `YOUR_GITHUB_USERNAME` на свой ник на GitHub
-
----
 
 ## 🎯 Цель
 
